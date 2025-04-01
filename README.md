@@ -1,4 +1,4 @@
-# Cosine Distance Calculator
+# Cosine Distance Lab
 
 This is a C++ program that reads vectors of doubles from a file, computes the pairwise cosine distances between all pairs of vectors, and outputs the results ordered by the cosine closeness of the vectors.
 
